@@ -1,0 +1,15 @@
+C:\education\Seminar9\zadacha1\bin\Debug\net6.0\zadacha1.exe
+C:\education\Seminar9\zadacha1\bin\Debug\net6.0\zadacha1.deps.json
+C:\education\Seminar9\zadacha1\bin\Debug\net6.0\zadacha1.runtimeconfig.json
+C:\education\Seminar9\zadacha1\bin\Debug\net6.0\zadacha1.dll
+C:\education\Seminar9\zadacha1\bin\Debug\net6.0\zadacha1.pdb
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\zadacha1.csproj.AssemblyReference.cache
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\zadacha1.AssemblyInfoInputs.cache
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\zadacha1.AssemblyInfo.cs
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\zadacha1.csproj.CoreCompileInputs.cache
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\zadacha1.dll
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\refint\zadacha1.dll
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\zadacha1.pdb
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\zadacha1.genruntimeconfig.cache
+C:\education\Seminar9\zadacha1\obj\Debug\net6.0\ref\zadacha1.dll
